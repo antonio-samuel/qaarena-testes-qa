@@ -13,7 +13,7 @@ reproduzir e documentar.
 
 ## Progresso
 
-- Missões concluídas: 6
+- Missões concluídas: 3
 - Bug reports documentados: 3
 - Última atualização: 25/10/2026
 
