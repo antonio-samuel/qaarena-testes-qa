@@ -49,7 +49,7 @@ Chrome, Windows, desktop. Dados fictícios fornecidos pelo próprio QARENA.
 - [ ] Concluir as demais missões
 - [ ] Montar plano de qualidade com cenários em Gherkin
 - [ ] Criar suíte de regressivo
-- [ ] Realizar sessões de teste exploratório
+
 
 ## Contato
 
